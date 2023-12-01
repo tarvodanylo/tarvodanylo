@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tarvodanylo
+- 👀 I’m interested in javascript
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on fronend development
